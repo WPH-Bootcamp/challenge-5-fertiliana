@@ -42,7 +42,7 @@ function searchBook(title?: string): void {
   }
 
   results.forEach((b) =>
-    console.log(`-${b.title} by ${b.author} (${b.publicationYear})`)
+    console.log(`- ${b.title} by ${b.author} (${b.publicationYear})`)
   );
 }
 
