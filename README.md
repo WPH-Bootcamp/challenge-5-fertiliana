@@ -87,3 +87,5 @@ Check this module: [click this](https://orchid-clematis-3e4.notion.site/Panduan-
 ---
 
 ## 🎉 Embrace the challenge and turn your tasks into a fun adventure—each step brings you closer to your goals! You've got this! 🚀 Remember, every small victory is a reason to celebrate! 🎈
+
+Assignment Submission Deadline: November 28, 2025, at 23:59 Western Indonesia Time (WIB)
